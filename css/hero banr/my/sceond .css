@@ -1,0 +1,30 @@
+ body,html{
+    background-color:aquamarine ;
+ }
+ 
+img{
+    max-width: 350px;
+    float: right;
+    border-radius: 10px;
+    border: 3px solid red;
+}
+.button{
+     background-color:antiquewhite;
+     border: none;
+     clear: red;
+     padding: 13px  60px;
+     text-align: center;
+     text-decoration: double;
+     display: inline-block;
+
+     font-size: 16px;
+     margin: 20px 2px;
+     cursor: pointer;
+     border-radius: 100px;
+}
+
+.button:hover{
+    background-color: green;
+
+}
+
